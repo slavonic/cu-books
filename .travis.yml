@@ -1,5 +1,11 @@
 # travis CI for testing TeX package cu-num
 os: linux
 
+addons:
+  apt:
+    packages:
+      # Needed for `xmllint`.
+      - libxml2-utils
+
 script:
     - make test
