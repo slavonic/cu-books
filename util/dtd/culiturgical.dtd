@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT document (p+ | anchor* | footer?)*>
+  <!ATTLIST document lang CDATA #REQUIRED>
+  <!ATTLIST document xmlns CDATA #REQUIRED>
+<!ELEMENT p (#PCDATA | red | wide | small | footnote | anchor | img)*>
+  <!ATTLIST p lang CDATA #IMPLIED>
+<!ELEMENT anchor EMPTY>
+  <!ATTLIST anchor type (page|folio) #REQUIRED>
+  <!ATTLIST anchor number CDATA #REQUIRED>
+  <!ATTLIST anchor label CDATA #IMPLIED>
+<!ELEMENT footer EMPTY>
+<!ELEMENT red (#PCDATA | wide | small | footnote)*>
+<!ELEMENT wide (#PCDATA | red | small | footnote)*>
+<!ELEMENT small (#PCDATA | red | wide | footnote)*>
+<!ELEMENT footnote (#PCDATA | red | disp)*>
+  <!ATTLIST footnote lang CDATA #IMPLIED>
+<!ELEMENT disp (#PCDATA)>
+  <!ATTLIST disp lang CDATA #REQUIRED>
+<!ELEMENT img EMPTY>
+  <!ATTLIST img src CDATA #REQUIRED>

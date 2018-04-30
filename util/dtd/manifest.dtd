@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT bookdata (head, manifest)>
+<!ELEMENT head (meta*)>
+<!ELEMENT manifest (chapter*)>
+<!ELEMENT meta EMPTY>
+  <!ATTLIST meta name CDATA #REQUIRED>
+  <!ATTLIST meta content CDATA #REQUIRED>
+<!ELEMENT chapter EMPTY>
+  <!ATTLIST chapter file CDATA #REQUIRED>
+  <!ATTLIST chapter name CDATA #REQUIRED>

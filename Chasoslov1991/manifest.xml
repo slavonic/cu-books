@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="79a74ae2-cec9-11e0-bc18-c69954a6a287"/>
+		<meta name="lang" content="cu"/>
+		<meta name="title" content="Часослов"/>
+		<meta name="latin" content="Chasoslov"/>
+		<meta name="publisher" content="Московская Патриархия, Москва"/>
+		<meta name="year" content="1991"/>
+		<meta name="note" content="OCR: http://www.orthlib.ru/; Conversion from HIP to Unicode: Ponomar Technologies, Inc."/>
+	</head>
+	<manifest>
+		<chapter file="01polunosch.xml" name="Полунощница"/>
+		<chapter file="02utren.xml" name="Последование утрени"/>
+		<chapter file="03chas1.xml" name="Час первый"/>
+		<chapter file="03_1chas1_1.xml" name="Междочасие Первого часа"/>
+		<chapter file="04chas3.xml" name="Час третий"/>
+		<chapter file="04_1chas3_1.xml" name="Междочасие Третьего часа"/>
+		<chapter file="05chas6.xml" name="Час шестой"/>
+		<chapter file="05_1chas6_1.xml" name="Междочасие Шестого часа"/>
+		<chapter file="06izobrazit.xml" name="Последование изобразительных"/>
+		<chapter file="07panag.xml" name="Чин о панагии"/>
+		<chapter file="08chas9.xml" name="Час девятый"/>
+		<chapter file="08_1chas9_1.xml" name="Междочасие Девятого часа"/>
+		<chapter file="09vechern.xml" name="Последование вечерни"/>
+		<chapter file="10trapez.xml" name="Молитвы в трапезе"/>
+		<chapter file="11vpovech.xml" name="Великое повечерие"/>
+		<chapter file="12mpovech.xml" name="Малое повечерие"/>
+		<chapter file="13kafisma17.xml" name="Кафисма 17"/>
+		<chapter file="14otpvoskr.xml" name="Отпустительные воскресные, восьми гласов, с Богородичными и ипакои их"/>
+		<chapter file="15otpbogor.xml" name="Богородичны отпустительные, поемые в течение всего года"/>
+		<chapter file="16otpsedm.xml" name="Отпустительные тропари седмичные"/>
+		<chapter file="17moleben.xml" name="Последование общего молебна"/>
+		<chapter file="18tropnepor.xml" name="Тропари воскресные, поемые по Непорочнах"/>
+		<chapter file="19subbtropnep.xml" name="Тропари, поемые по Непорочнах в субботу"/>
+	</manifest>
+</bookdata>

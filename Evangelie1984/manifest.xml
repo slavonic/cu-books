@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="7f39978b-bbc7-11e1-aa4b-ac670dfa6e4b"/>
+		<meta name="lang" content="cu"/>
+		<meta name="title" content="Богослужебное Евангелие"/>
+		<meta name="latin" content="Evangelie"/>
+		<meta name="publisher" content="Издание Московской Патриархии"/>
+		<meta name="year" content="1984"/>
+		<meta name="note" content="Тексты приводятся по изданию: СВѦЩЕ́ННОЕ Є҆ѴА́НГЕЛІЕ. — Издание Московской Патриархии, ҂ацп҃д. OCR: http://www.orthlib.ru/; Conversion from HIP to Unicode: Ponomar Technologies, Inc."/>
+	</head>
+	<manifest>
+		<chapter file="1mf.xml" name="От Матфея"/>
+		<chapter file="2mk.xml" name="От Марка"/>
+		<chapter file="3lk.xml" name="От Луки"/>
+		<chapter file="4in.xml" name="От Иоанна"/>
+		<chapter file="5skazan.xml" name="Сказания о чтении евангелия"/>
+		<chapter file="6sobornik.xml" name="Соборник месяцей"/>
+		<chapter file="7obtreb.xml" name="Общие и требные чтения "/>
+	</manifest>
+</bookdata>

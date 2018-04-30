@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="451b8a13-cac2-11e0-ab6e-cb910947f72d"/>
+		<meta name="lang" content="cu"/>
+		<meta name="title" content="Ирмологий"/>
+		<meta name="latin" content="Irmologii"/>
+		<meta name="publisher" content="Свято-Троицкая Сергиева Лавра"/>
+		<meta name="year" content="1995"/>
+		<meta name="note" content="Репринт издания: Москва, Синодальная типография, 1913; OCR: http://www.orthlib.ru/; Conversion from HIP to Unicode: Ponomar Technologies, Inc."/>
+	</head>
+	<manifest>
+		<chapter file="00ogl.xml" name="Ѡ҆главле́нїе"/>
+		<chapter file="01glas.xml" name="і҆рмосы̀, гла́съ а҃"/>
+		<chapter file="02glas.xml" name="і҆рмосы̀, гла́съ в҃"/>
+		<chapter file="03glas.xml" name="і҆рмосы̀, гла́съ г҃"/>
+		<chapter file="04glas.xml" name="і҆рмосы̀, гла́съ д҃"/>
+		<chapter file="05glas.xml" name="і҆рмосы̀, гла́съ є҃"/>
+		<chapter file="06glas.xml" name="і҆рмосы̀, гла́съ ѕ҃"/>
+		<chapter file="07glas.xml" name="і҆рмосы̀, гла́съ з҃"/>
+		<chapter file="08glas.xml" name="і҆рмосы̀, гла́съ и҃"/>
+		<chapter file="09predrojd.xml" name="І҆рмосы̀ въ предпра́зднство хрⷭто́ва ржⷭтва̀"/>
+		<chapter file="10predkres.xml" name="І҆рмосы̀ въ предпра́зднство ст҃ы́хъ бг҃оѧвле́нїй"/>
+		<chapter file="11liturgia.xml" name="Лїтꙋргі́а вседне́внаѧ"/>
+		<chapter file="12prezhdeosv.xml" name="Гдⷭи воззва́хъ, пое́мый на вече́рнѧхъ, и҆ лїтꙋргі́ахъ  преждеѡсщ҃е́нныхъ"/>
+		<chapter file="13bgrvoskr.xml" name="Бг҃оро́дичны воскре́сны, на ѻ҆́смь гласѡ́въ"/>
+		<chapter file="14bgrvsednev.xml" name="Бг҃оро́дичны по всѧ̑ дни̑, пое́мїи на сла́вахъ ст҃ы́хъ"/>
+		<chapter file="15stepen.xml" name="Степє́нны, на ѻ҆́смь гласѡ́въ"/>
+		<chapter file="16pesnvsedn.xml" name="Пѣ́сни трⷪчны, на ѻ҆́смь гласѡ́въ, и҆ пѣ́сней стїхѝ пое́мїи по всѧ̑ дни̑ къ канѡ́нѡмъ"/>
+		<chapter file="17pesnprazd.xml" name="Пѣ́сней стїхѝ, пое́мїи въ недѣ̑ли и҆ пра́здники"/>
+		<chapter file="18pesnpost.xml" name="Оу҆ка́зъ, ка́кѡ глаго́лати пѣ̑сни и҆ канѡ́ны, во ст҃ꙋ́ю и҆ вели́кꙋю четыредесѧ́тницꙋ"/>
+		<chapter file="19neporochned.xml" name="Тропарѝ воскре́сны, пое́мїи по непоро́чнахъ"/>
+		<chapter file="20prokother.xml" name="Прокі́мны воскре́сны ᲂу҆́треннїи на и҃ гласѡ́въ"/>
+		<chapter file="21neporochsub.xml" name="Тропарѝ пое́мїи по непоро́чнахъ ѡ҆ ᲂу҆со́пшихъ"/>
+		<chapter file="22paskha.xml" name="Слꙋ́жба на ст҃ꙋ́ю па́схꙋ"/>
+		<chapter file="23izbrpsalm.xml" name="Полѷеле́и, пое́мый въ пра́здники гдⷭскїѧ, и҆ бг҃оро́дичны, и҆  наро́читыхъ ст҃ы́хъ, и҆ велича̑нїѧ со и҆збра́нными ѱалмѝ"/>
+		<chapter file="24pripev.xml" name="Припѣ́вы на ѳ҃-й пѣ́сни, на гдⷭскїѧ пра́здники, и҆  бг҃оро́дичны"/>
+	</manifest>
+</bookdata>

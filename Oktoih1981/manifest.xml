@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="3aa700f9-d1ec-11e0-8152-a852e556f697"/>
+		<meta name="lang" content="cu"/>
+		<meta name="title" content="Октоих"/>
+		<meta name="latin" content="Oktoih"/>
+		<meta name="publisher" content="Издание Московской Патриархии, Москва"/>
+		<meta name="year" content="1981"/>
+		<meta name="note" content="Тексты приводятся по изданию: Ѻ҆ктѡ́ихь, си́рѣчь ѻ҆смогла́сникъ. В 2 частях. OCR: http://www.orthlib.ru/; Conversion from HIP to Unicode: Ponomar Technologies, Inc."/>
+	</head>
+	<manifest>
+		<chapter file="1_0.xml" name="Глас 1-й. Неделя."/>
+		<chapter file="1_1.xml" name="Глас 1-й. Понедельник."/>
+		<chapter file="1_2.xml" name="Глас 1-й. Вторник."/>		
+		<chapter file="1_3.xml" name="Глас 1-й. Среда."/>
+		<chapter file="1_4.xml" name="Глас 1-й. Четверг."/>
+		<chapter file="1_5.xml" name="Глас 1-й. Пятница."/>
+		<chapter file="1_6.xml" name="Глас 1-й. Суббота."/>
+		<chapter file="2_0.xml" name="Глас 2-й. Неделя."/>
+		<chapter file="2_1.xml" name="Глас 2-й. Понедельник."/>
+		<chapter file="2_2.xml" name="Глас 2-й. Вторник."/>		
+		<chapter file="2_3.xml" name="Глас 2-й. Среда."/>
+		<chapter file="2_4.xml" name="Глас 2-й. Четверг."/>
+		<chapter file="2_5.xml" name="Глас 2-й. Пятница."/>
+		<chapter file="2_6.xml" name="Глас 2-й. Суббота."/>
+		<chapter file="3_0.xml" name="Глас 3-й. Неделя."/>
+		<chapter file="3_1.xml" name="Глас 3-й. Понедельник."/>
+		<chapter file="3_2.xml" name="Глас 3-й. Вторник."/>		
+		<chapter file="3_3.xml" name="Глас 3-й. Среда."/>
+		<chapter file="3_4.xml" name="Глас 3-й. Четверг."/>
+		<chapter file="3_5.xml" name="Глас 3-й. Пятница."/>
+		<chapter file="3_6.xml" name="Глас 3-й. Суббота."/>
+		<chapter file="4_0.xml" name="Глас 4-й. Неделя."/>
+		<chapter file="4_1.xml" name="Глас 4-й. Понедельник."/>
+		<chapter file="4_2.xml" name="Глас 4-й. Вторник."/>		
+		<chapter file="4_3.xml" name="Глас 4-й. Среда."/>
+		<chapter file="4_4.xml" name="Глас 4-й. Четверг."/>
+		<chapter file="4_5.xml" name="Глас 4-й. Пятница."/>
+		<chapter file="4_6.xml" name="Глас 4-й. Суббота."/>
+		<chapter file="5_0.xml" name="Глас 5-й. Неделя."/>
+		<chapter file="5_1.xml" name="Глас 5-й. Понедельник."/>
+		<chapter file="5_2.xml" name="Глас 5-й. Вторник."/>		
+		<chapter file="5_3.xml" name="Глас 5-й. Среда."/>
+		<chapter file="5_4.xml" name="Глас 5-й. Четверг."/>
+		<chapter file="5_5.xml" name="Глас 5-й. Пятница."/>
+		<chapter file="5_6.xml" name="Глас 5-й. Суббота."/>
+		<chapter file="6_0.xml" name="Глас 6-й. Неделя."/>
+		<chapter file="6_1.xml" name="Глас 6-й. Понедельник."/>
+		<chapter file="6_2.xml" name="Глас 6-й. Вторник."/>		
+		<chapter file="6_3.xml" name="Глас 6-й. Среда."/>
+		<chapter file="6_4.xml" name="Глас 6-й. Четверг."/>
+		<chapter file="6_5.xml" name="Глас 6-й. Пятница."/>
+		<chapter file="6_6.xml" name="Глас 6-й. Суббота."/>
+		<chapter file="7_0.xml" name="Глас 7-й. Неделя."/>
+		<chapter file="7_1.xml" name="Глас 7-й. Понедельник."/>
+		<chapter file="7_2.xml" name="Глас 7-й. Вторник."/>		
+		<chapter file="7_3.xml" name="Глас 7-й. Среда."/>
+		<chapter file="7_4.xml" name="Глас 7-й. Четверг."/>
+		<chapter file="7_5.xml" name="Глас 7-й. Пятница."/>
+		<chapter file="7_6.xml" name="Глас 7-й. Суббота."/>
+		<chapter file="8_0.xml" name="Глас 8-й. Неделя."/>
+		<chapter file="8_1.xml" name="Глас 8-й. Понедельник."/>
+		<chapter file="8_2.xml" name="Глас 8-й. Вторник."/>		
+		<chapter file="8_3.xml" name="Глас 8-й. Среда."/>
+		<chapter file="8_4.xml" name="Глас 8-й. Четверг."/>
+		<chapter file="8_5.xml" name="Глас 8-й. Пятница."/>
+		<chapter file="8_6.xml" name="Глас 8-й. Суббота."/>
+		<chapter file="01prokeimena.xml" name="Прокимны, апостольские чтения, аллилуарии и евангелия дневные"/>
+		<chapter file="02exapostilaria.xml" name="Эксапостиларии воскресные и утренние стихиры"/>
+		<chapter file="03exap_weekday.xml" name="Э­ксапостиларии всей седмицы"/>
+		<chapter file="04heothina.xml" name="Стихиры утренние"/>
+		<chapter file="05daily_photagogica.xml" name="Светильны дневные"/>
+		<chapter file="06theotokia.xml" name="Богородичны воскресные"/>
+		<chapter file="07evlogitaria.xml" name="Тропари воскресные по непорочных"/>
+		<chapter file="08daily_trop.xml" name="Троичны дневные"/>
+		<chapter file="09_trinitaria.xml" name="Троичны Григория Синаита"/>
+		<chapter file="10_gospels.xml" name="Евангелия Воскресные"/>
+	</manifest>
+</bookdata>

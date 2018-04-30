@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="006ae6ff-d37a-11e0-9e7b-f978f61b5a64"/>
+		<meta name="lang" content="cu"/>
+		<meta name="title" content="Минея Общая"/>
+		<meta name="latin" content="MineyaObshchaya"/>
+		<meta name="publisher" content="Издательский Совет Русской  Православной Церкви"/>
+		<meta name="year" content="2002"/>
+		<meta name="note" content="Тексты приводятся по изданию: МИНЕ́Ѧ Ѻ҆́БЩАѦ. ИЗДАТЕЛЬСКИЙ СОВЕТ РУССКОЙ ПРАВОСЛАВНОЙ ЦЕРКВИ. МОСКВА 2002. OCR: http://www.orthlib.ru/; Conversion from HIP to Unicode: Ponomar Technologies, Inc."/>
+	</head>
+	<manifest>
+		<chapter file="iz.xml" name="И҆з̾ѧвле́нїе вкра́тцѣ, ка́кѡ пѣ́ти пра́зднꙋемымъ и҆ не пра́зднꙋемымъ  ст҃ы̑мъ"/>
+		<chapter file="01.xml" name="Слꙋ́жба ѻ҆́бща пра́здникѡмъ и҆ предпра́зднствѡмъ  и҆ попра́зднствѡмъ гдⷭа на́шегѡ і҆и҃са хрⷭта̀"/>
+		<chapter file="02.xml" name="Слꙋ́жба пра́здникѡмъ бг҃орѡ́дичнымъ"/>
+		<chapter file="03.xml" name="Слꙋ́жба чтⷭно́мꙋ и҆ животворѧ́щемꙋ крⷭтꙋ̀ "/>
+		<chapter file="04.xml" name="Слꙋ́жба ст҃ы̑мъ а҆́гг҃лѡмъ"/>
+		<chapter file="05.xml" name="Слꙋ́жба і҆ѡа́ннꙋ прⷣте́чи"/>
+		<chapter file="06.xml" name="Слꙋ́жба ст҃ы̑мъ ѻ҆ц҃є́мъ"/>
+		<chapter file="07.xml" name="Слꙋ́жба ѻ҆́бща прⷪро́кꙋ"/>
+		<chapter file="08.xml" name="Слꙋ́жба а҆пⷭлꙋ"/>
+		<chapter file="09.xml" name="Слꙋ́жба а҆пⷭлѡмъ"/>
+		<chapter file="10.xml" name="Слꙋ́жба ст҃и́телю"/>
+		<chapter file="11.xml" name="Слꙋ́жба ст҃и́телємъ"/>
+		<chapter file="12.xml" name="Слꙋ́жба прпⷣбномꙋ "/>
+		<chapter file="13.xml" name="Слꙋ́жба прпⷣбнымъ"/>
+		<chapter file="14.xml" name="Слꙋ́жба мч҃нкꙋ "/>
+		<chapter file="15.xml" name="Слꙋ́жба мч҃нкѡмъ"/>
+		<chapter file="16.xml" name="Слꙋ́жба сщ҃енномч҃нкꙋ "/>
+		<chapter file="17.xml" name="Слꙋ́жба сщ҃енномч҃нкѡмъ"/>
+		<chapter file="18.xml" name="Слꙋ́жба прпⷣбномч҃нкꙋ "/>
+		<chapter file="19.xml" name="Слꙋ́жба прпⷣбномч҃нкѡмъ"/>
+		<chapter file="20.xml" name="Слꙋ́жба мч҃нцѣ "/>
+		<chapter file="21.xml" name="Слꙋ́жба мч҃нцамъ "/>
+		<chapter file="22.xml" name="Слꙋ́жба прпⷣбнѣй женѣ̀ "/>
+		<chapter file="23.xml" name="Слꙋ́жба прпⷣбнымъ жена́мъ"/>
+		<chapter file="24.xml" name="Слꙋ́жба прпⷣбномч҃нцѣ"/>
+		<chapter file="25.xml" name="Слꙋ́жба сщ҃енноисповѣ́дникꙋ и҆  прпⷣбноисповѣ́дникꙋ"/>
+		<chapter file="26.xml" name="Слꙋ́жба безме́здникѡмъ и҆ чꙋдотво́рцємъ"/>
+		<chapter file="27.xml" name="Слꙋ́жба хрⷭта̀ ра́ди ю҆рѡ́дивымъ"/>
+		<chapter file="28.xml" name="Слꙋ́жба воскрⷭна, гла́са ѕ҃-гѡ"/>
+		<chapter file="29.xml" name="Слꙋ́жба ѻ҆́бща по всѧ̑ дни̑"/>
+		<chapter file="30.xml" name="Бг҃оро́дичны на Гдⷭи воззва́хъ, и҆ на стїхо́внѣ  воскрⷭны, на и҃ гласѡ́въ"/>
+		<chapter file="31.xml" name="Ѿпꙋсти́тельнїи, и҆ конда́ки трїѡ́ди, и҆ н҃-цы,  начина́ємыѧ ѿ недѣ́ли мытарѧ̀ и҆ фарїсе́а, до всѣ́хъ  ст҃ы́хъ: въ ни́хже и҆ канѡ́нъ на ст҃ꙋ́ю па́схꙋ"/>
+		<chapter file="32.xml" name="Ѿпꙋсти́тельнїи воскрⷭны ѻ҆смогла́сника, съ  бг҃оро́дичны, и҆ ѵ҆пакоѝ и҆́хъ, и҆ конда́ки"/>
+		<chapter file="33.xml" name="Тропарѝ воскрⷭны, пое́мїи по непоро́чнахъ въ  недѣ́лѧхъ всегѡ̀ лѣ́та"/>
+		<chapter file="34.xml" name="Подо́бнѣ въ сꙋббѡ́тꙋ, пое́мїи ме́ртвеннїи  тропарѝ по непоро́чнахъ"/>
+		<chapter file="35.xml" name="Бг҃оро́дичны ѿпꙋсти́тельнїи, пое́мїи во всѐ  лѣ́то, въ вечє́рни же и҆ на Бг҃ъ гдⷭь, и҆ на концѣ̀  ᲂу҆́трени"/>
+		<chapter file="36.xml" name="Ѿпꙋсти́тельнїи всеѧ̀ седми́цы"/>
+		<chapter file="37.xml" name="Ѡ҆ зна́менїѧхъ влⷣчнихъ и҆ бг҃оро́дичныхъ  пра́здникѡвъ и҆ ст҃ы́хъ"/>
+		<chapter file="38.xml" name="Мцⷭосло́въ всегѡ̀ лѣ́та."/>
+		<chapter file="39.xml" name="Парємїѝ ѻ҆́бщыѧ коемꙋ́ждо ст҃о́мꙋ "/>
+		<chapter file="40.xml" name="Прокі́мени, а҆пⷭли, а҆ллилꙋїа́ре, є҆ѵⷢлїа, и҆  прича́стни, ѻ҆́бщи ст҃ы̑мъ"/>
+		<chapter file="41.xml" name="А҆пⷭлы, и҆ є҆ѵⷢлїа ѻ҆́бщїи коемꙋ́ждо ст҃о́мꙋ "/>
+	</manifest>
+</bookdata>

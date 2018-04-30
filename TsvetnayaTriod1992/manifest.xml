@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="0696c87a-cfe8-11e0-85d1-b5e18845b6b3"/>
+		<meta name="lang" content="cu"/>
+		<meta name="title" content="Цветная Триодь"/>
+		<meta name="latin" content="TsvetnayaTriod"/>
+		<meta name="publisher" content="Издание Московской Патриархии, Москва"/>
+		<meta name="year" content="1992"/>
+		<meta name="note" content="Тексты приводятся по изданию: Трїѡ́дь цвѣтна́ѧ. OCR: http://www.orthlib.ru/; Conversion from HIP to Unicode: Ponomar Technologies, Inc."/>
+	</head>
+	<manifest>
+		<chapter file="01pascha.xml" name="Пасхальная Заутреня"/>
+		<chapter file="02chas.xml" name="Часы Пасхи"/>
+		<chapter file="03liturgy.xml" name="Пасхальная Литургия"/>
+		<chapter file="04moleben.xml" name="Пасхальный молебен"/>
+		<chapter file="05prayers.xml" name="Иные: молитвы на освящение мяса, яиц, куличей и пасох, артоса"/>
+		<chapter file="06bright.xml" name="Светлая седмица (с понедельника по субботу)"/>
+		<chapter file="07antipascha.xml" name="Неделя Антипасхи"/>
+		<chapter file="08sedm2.xml" name="Вторая седмица по Пасхе (с понедельника по субботу)"/>
+		<chapter file="09myrrh.xml" name="Неделя третья по Пасхе, жен мироносиц"/>
+		<chapter file="10sedm3.xml" name="Третья седмица по Пасхе (с понедельника по субботу)"/>
+		<chapter file="11paral.xml" name="Неделя четвертая по Пасхе, о расслабленном"/>
+		<chapter file="12sedm4.xml" name="Четвертая седмица по Пасхе (с понедельника по субботу)"/>
+		<chapter file="13midp.xml" name="Служба Преполовению Пятидесятницы"/>
+		<chapter file="14samar.xml" name="Неделя пятая по Пасхе, о самаряныне"/>
+		<chapter file="15sedm5.xml" name="Пятая седмица по Пасхе (с понедельника по субботу)"/>
+		<chapter file="16blind.xml" name="Неделя шестая по Пасхе, о слепом"/>
+		<chapter file="17sedm6.xml" name="Шестая седмица по Пасхе (с понедельника по субботу)"/>
+		<chapter file="18apodosis.xml" name="Отдание Пасхи"/>
+		<chapter file="19ascension.xml" name="Вознесение"/>
+		<chapter file="20fathers.xml" name="Неделя седьмая по Пасхе, святых никейских отцов"/>
+		<chapter file="21sedm7.xml" name="Седьмая седмица по Пасхе (с понедельника по пяток)"/>
+		<chapter file="22souls.xml" name="Троицкая родительская суббота, поминовение усопших"/>
+		<chapter file="23pent.xml" name="Святая Пятидесятница"/>
+		<chapter file="24spirit.xml" name="Троицкая вечерня с коленопреклонными молитвами"/>
+		<chapter file="25sedm8.xml" name="Восьмая седмица по Пасхе (со вторника по субботу)"/>
+		<chapter file="26allsaints.xml" name="Неделя всех Святых"/>
+		<chapter file="27joseph.xml" name="Иосифовы трипеснцы"/>
+	</manifest>
+</bookdata>

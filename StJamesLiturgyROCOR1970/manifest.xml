@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="e54c5771-328c-11e1-a64e-c25d0bae6c2a"/>
+		<meta name="lang" content="cu"/>
+		<meta name="title" content="Божественная Литургия Святаго Апостола Иакова"/>
+		<meta name="latin" content="StJamesLiturgyROCOR"/>
+		<meta name="publisher" content="Рим"/>
+		<meta name="year" content="1970"/>
+		<meta name="note" content="OCR: http://www.orthlib.ru/; Conversion from HIP to Unicode: Ponomar Technologies, Inc."/>
+	</head>
+	<manifest>
+		<chapter file="zarub.xml" name="Боже́ственнаѧ лїтꙋргі́а ст҃а́гѡ а҆пⷭ҇ла і҆а́кѡва бра́та бж҃їѧ и҆ пе́рвагѡ і҆ера́рха і҆ерꙋсали́мскагѡ"/>
+	</manifest>
+</bookdata>

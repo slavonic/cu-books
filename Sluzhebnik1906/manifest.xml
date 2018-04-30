@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="6f1af311-323f-11e1-bf95-b6f95972b111"/>
+		<meta name="lang" content="cu"/>
+		<meta name="title" content="Служебник"/>
+		<meta name="latin" content="Sluzhebnik"/>
+		<meta name="publisher" content="Москва: Синодальная Типография"/>
+		<meta name="year" content="1906"/>
+		<meta name="note" content="OCR: http://www.orthlib.ru/; Conversion from HIP to Unicode: Ponomar Technologies, Inc."/>
+	</head>
+	<manifest>
+		<chapter file="01vechern.xml" name="Послѣ́дованїе вече́рни"/>
+		<chapter file="02utren.xml" name="Послѣ́дованїе ᲂу҆́трени"/>
+		<chapter file="03proskomid.xml" name="Чи́нъ свѧще́нныѧ и҆ бж҃е́ственныѧ лїтꙋргі́и"/>
+		<chapter file="04litur_zlat.xml" name="Бж҃е́ственнаѧ слꙋ́жба во ст҃ы́хь ѻ҆тца̀ на́шегѡ і҆ѡа́нна златоꙋ́стагѡ"/>
+		<chapter file="05blag_molitv.xml" name="Е҆гда̀ полꙋ́чиши до́брагѡ причаще́нїѧ животворѧ́щихъ  та́инственныхъ дарова́нїй"/>
+		<chapter file="06ukaz.xml" name="Оу҆ка́зъ, ка́кѡ подоба́етъ глаго́лати ѿпꙋ́сты"/>
+		<chapter file="07otp_vladychn.xml" name="Ѿпꙋ́сты влⷣчнихъ пра́здниковъ"/>
+		<chapter file="08otp_dnevn.xml" name="Ѿпꙋ́сты дневні́и"/>
+		<chapter file="09litur_vasiliy.xml" name="Бж҃е́ственнаѧ слꙋ́жба и҆́же во ст҃ы́хъ ѻ҆ц҃а̀ на́шегѡ  васі́лїа вели́кагѡ"/>
+		<chapter file="10prejdeosv.xml" name="Чи́нъ бж҃е́ственныѧ лїтꙋргі́и преждеѡсщ҃е́нныхъ"/>
+		<chapter file="11kolivo.xml" name="Чи́нъ благослове́нїѧ ко́лива"/>
+		<chapter file="12lit_usopsh.xml" name="Чи́нъ лїті́и ѡ҆ ᲂу҆со́пшихъ"/>
+		<chapter file="14prok_post.xml" name="Прокі́мны по́стныѧ"/>
+		<chapter file="15prok_paskh.xml" name="Прокі́мны во ст҃ꙋ́ю и҆ вели́кꙋю недѣ́лю па́схи"/>
+		<chapter file="16prok_octoih.xml" name="Прокі́мны и҆ а҆ллилꙋ́їа воскре́сны"/>
+		<chapter file="17prok_dnevn.xml" name="Прокі́мны и҆ а҆ллилꙋ́їа дневні́и"/>
+		<chapter file="18prok_obsch.xml" name="Прокі́мны и҆ а҆ллилꙋ́їа, ѻ҆́бщїи ст҃ы̑мъ"/>
+		<chapter file="19izvestie.xml" name="И҆звѣ́стїе ᲂу҆чи́тельное"/>
+	</manifest>
+</bookdata>

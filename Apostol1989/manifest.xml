@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="0f0c7768-bbc0-11e1-8b31-a4032d34c3c4"/>
+		<meta name="lang" content="cu"/>
+		<meta name="title" content="Богослужебный апостол"/>
+		<meta name="latin" content="Apostol"/>
+		<meta name="publisher" content="Издание Московской Патриархии"/>
+		<meta name="year" content="1989"/>
+		<meta name="note" content="Тексты приводятся по изданию: Апо́столъ. — Издание Московской Патриархии, ҂ацп҃ѳ. OCR: http://www.orthlib.ru/; Conversion from HIP to Unicode: Ponomar Technologies, Inc."/>
+	</head>
+	<manifest>
+		<chapter file="01epif.xml" name="Сказание святого Епифания, епископа Кипрского"/>
+		<chapter file="02dorof.xml" name="Избрание святых семидесяти апостолов"/>
+		<chapter file="03chud.xml" name="О чудесах святых апостолов"/>
+		<chapter file="04nadp.xml" name="Надписание глав апостольских деяний"/>
+		<chapter file="05deyan.xml" name="Деяния святых апостол"/>
+		<chapter file="06iak.xml" name="Соборное послание апостола Иакова"/>
+		<chapter file="07pet1.xml" name="Соборное послание первое святого апостола Петра"/>
+		<chapter file="08pet2.xml" name="Соборное послание второе святого апостола Петра"/>
+		<chapter file="09in1.xml" name="Соборное послание первое святого апостола Иоанна Богослова"/>
+		<chapter file="10in2.xml" name="Соборное послание второе святого апостола Иоанна Богослова"/>
+		<chapter file="11in3.xml" name="Соборное послание третье святого апостола Иоанна Богослова"/>
+		<chapter file="12iud.xml" name="Соборное послание Иудино"/>
+		<chapter file="13rim.xml" name="К римлянам послание святого апостола Павла"/>
+		<chapter file="14kor1.xml" name="К коринфянам первое послание святого апостола Павла"/>
+		<chapter file="15kor2.xml" name="К коринфянам второе послание святого апостола Павла"/>
+		<chapter file="16gal.xml" name="К галатам послание святого апостола Павла"/>
+		<chapter file="17ef.xml" name="Ко ефессеям послание святого апостола Павла"/>
+		<chapter file="18flp.xml" name="К филиппийцам послание святого апостола Павла"/>
+		<chapter file="19kol.xml" name="К колоссянам послание святого апостола Павла"/>
+		<chapter file="20sol1.xml" name="К фессалоникийцам первое послание святого апостола Павла"/>
+		<chapter file="21sol2.xml" name="К фессалоникийцам второе послание святого апостола Павла"/>
+		<chapter file="22tim1.xml" name="К Тимофею первое послание святого апостола Павла"/>
+		<chapter file="23tim2.xml" name="К Тимофею второе послание святого апостола Павла"/>
+		<chapter file="24tit.xml" name="К Титу послание святого апостола Павла"/>
+		<chapter file="25flm.xml" name="К Филимону послание святого апостола Павла"/>
+		<chapter file="26evr.xml" name="К евреем послание святого апостола Павла"/>
+		<chapter file="27anprap.xml" name="Сказание о антифонах и о прокимнах"/>
+		<chapter file="28sobmes.xml" name="Сборник двунадесяти месяцев"/>
+		<chapter file="29vosklit.xml" name="Прокимны, и аллилуиаре воскресные, литургийные, восьми гласов"/>
+		<chapter file="30dnevnii.xml" name="Прокимны, аллилуиаре и причастны дневные"/>
+		<chapter file="31obcsh.xml" name="Прокимны, апостолы, аллилуиаре и причастны общие святым"/>
+		<chapter file="32trebrazl.xml" name="Прокимны, апостолы и аллиуиаре на всякую потребу различные"/>
+		<chapter file="33antif.xml" name="Антифоны по вся дни"/>
+	</manifest>
+</bookdata>

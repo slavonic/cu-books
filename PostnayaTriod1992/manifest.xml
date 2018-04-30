@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="8fcb82a0-cf75-11e0-b5ed-986bd7a8165a"/>
+		<meta name="lang" content="cu"/>
+		<meta name="title" content="Постная Триодь"/>
+		<meta name="latin" content="PostnayaTriod"/>
+		<meta name="publisher" content="Издание Московской Патриархии, Москва"/>
+		<meta name="year" content="1992"/>
+		<meta name="note" content="Тексты приводятся по изданию: Трїѡ́дь по́стнаѧ. В 2 частях. OCR: http://www.orthlib.ru/; Conversion from HIP to Unicode: Ponomar Technologies, Inc."/>
+	</head>
+	<manifest>
+		<chapter file="01mytar.xml" name="Неделя о мытаре и фарисее"/>
+		<chapter file="02blud.xml" name="Неделя о блудном сыне"/>
+		<chapter file="03submyas.xml" name="Суббота мясопустная"/>
+		<chapter file="04nedmyas.xml" name="Неделя мясопустная"/>
+		<chapter file="05sedmsyrn.xml" name="Сырная седмица (с понедельника по пяток)"/>
+		<chapter file="06subsyrn.xml" name="Суббота сыропустная"/>
+		<chapter file="07nedsyrn.xml" name="Неделя сыропустная"/>
+		<chapter file="08pnd1.xml" name="Понедельник первой седмицы"/>
+		<chapter file="09vt1.xml" name="Вторник первой седмицы"/>
+ 		<chapter file="10srd1.xml" name="Среда первой седмицы"/>
+  		<chapter file="11cht1.xml" name="Четверг первой седмицы"/>
+   		<chapter file="12pt1.xml" name="Пяток первой седмицы"/>
+    		<chapter file="13sub1.xml" name="Суббота первой седмицы"/>
+   		<chapter file="14nd1.xml" name="Неделя Торжества Православия"/>
+   		<chapter file="15sdm2.xml" name="Вторая седмица (с понедельника по пяток)"/>
+  		<chapter file="16sub2.xml" name="Суббота второй седмицы"/>
+   		<chapter file="17ned2.xml" name="Неделя второй седмицы, Григория Паламы"/>
+   		<chapter file="18sedm3.xml" name="Третья седмица (с понедельника по пяток)"/>
+   		<chapter file="19sub3.xml" name="Суббота третьей седмицы"/>
+   		<chapter file="20cross.xml" name="Неделя Крестопоклонная"/>
+    		<chapter file="21sedm4.xml" name="Четвертая седмица (с понедельника по пяток)"/>
+    		<chapter file="22sub4.xml" name="Суббота четвертой седмицы"/>
+    		<chapter file="23ned4.xml" name="Неделя четвертой седмицы, Иоанна Лествичника"/>
+    		<chapter file="24sed5.xml" name="Пятая седмица (с понедельника по пяток)"/>
+   		<chapter file="25mar.xml" name="Мариино стояние с приложением службы среды с алфавитными  стихирами"/>
+    		<chapter file="26akath.xml" name="Суббота Акафиста"/>
+    		<chapter file="27ned5.xml" name="Неделя пятой седмицы, Марии Египетской"/>
+     		<chapter file="28sedmv.xml" name="Седмица ваий (с понедельника по пяток)"/>
+    		<chapter file="29lazar.xml" name="Лазарева Суббота"/>
+   		<chapter file="30palm.xml" name="Неделя ваий (Вербное Воскресенье)"/>
+  		<chapter file="31grmon.xml" name="Великий Понедельник"/>
+ 		<chapter file="32grtue.xml" name="Великий Вторник"/>
+		<chapter file="33grwed.xml" name="Великая Среда"/>
+		<chapter file="34grthu.xml" name="Великий Четверг"/>
+		<chapter file="35grfr.xml" name="Великий Пяток"/>
+		<chapter file="36grsat.xml" name="Великая Суббота"/>
+	</manifest>
+</bookdata>
