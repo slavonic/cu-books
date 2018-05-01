@@ -9,10 +9,10 @@
   <!ATTLIST anchor number CDATA #REQUIRED>
   <!ATTLIST anchor label CDATA #IMPLIED>
 <!ELEMENT footer EMPTY>
-<!ELEMENT red (#PCDATA | wide | small | footnote)*>
-<!ELEMENT wide (#PCDATA | red | small | footnote)*>
-<!ELEMENT small (#PCDATA | red | wide | footnote)*>
-<!ELEMENT footnote (#PCDATA | red | disp)*>
+<!ELEMENT red (#PCDATA | wide | small | footnote | anchor)*>
+<!ELEMENT wide (#PCDATA | red | small | footnote | anchor)*>
+<!ELEMENT small (#PCDATA | red | wide | footnote | anchor)*>
+<!ELEMENT footnote (#PCDATA | red | disp | anchor)*>
   <!ATTLIST footnote lang CDATA #IMPLIED>
 <!ELEMENT disp (#PCDATA)>
   <!ATTLIST disp lang CDATA #REQUIRED>
