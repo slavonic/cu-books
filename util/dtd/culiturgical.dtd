@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!ELEMENT document (p+ | anchor* | footer?)*>
+<!ELEMENT document (p+ | footer?)*>
   <!ATTLIST document lang CDATA #REQUIRED>
   <!ATTLIST document xmlns CDATA #REQUIRED>
 <!ELEMENT p (#PCDATA | red | wide | small | footnote | anchor | img)*>

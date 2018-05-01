@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../../utils/xslt/culiturgical.xsl"?>
 <document lang="cu" xmlns="http://www.ponomar.net/culiturgical">
-<anchor type="folio" number="188" label="рп҃и"/>
-<p><red>СКАЗА́НЇЕ</red></p>
+<p><anchor type="folio" number="188" label="рп҃и"/><red>СКАЗА́НЇЕ</red></p>
 <p><red>є҆́же ка́кѡ на всѧ́къ де́нь до́лжно є҆́сть честѝ є҆ѵⷢ҇лїе седми́цъ всегѡ̀ лѣ́та.</red></p>
 <p><red>Во ст҃ꙋ́ю и҆ вели́кꙋю недѣ́лю па́схи:</red></p>
 <p>На лїтꙋргі́и є҆ѵⷢ҇лїе і҆ѡа́нна, зача́ло а҃.</p>
@@ -490,6 +489,4 @@
 <p>ѳ҃. Є҆ѵⷢ҇лїе і҆ѡа́нна, зача́ло ѯ҃є.</p>
 <p>і҃. є҆ѵⷢ҇лїе і҆ѡа́нна, зача́ло ѯ҃ѕ.</p>
 <p>а҃і. Є҆ѵⷢ҇лїе і҆ѡа́нна, зача́ло ѯ҃з.</p>
-<anchor type="folio" number="196" label="рч҃ѕ"/>
-<footer/>
 </document>
