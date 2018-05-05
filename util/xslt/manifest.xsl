@@ -19,7 +19,10 @@
 			<xsl:element name="meta">
 				<xsl:attribute name="charset">utf-8</xsl:attribute>
 			</xsl:element>
-			<!-- TODO: add CSS -->
+			<xsl:element name="link">
+				<xsl:attribute name="rel">stylesheet</xsl:attribute>
+				<xsl:attribute name="href">util/css/culiturgical.css</xsl:attribute>
+			</xsl:element>
 			</head>
 			<body>
 			<xsl:apply-templates/>
@@ -43,14 +46,21 @@
 			<p class="bookdata"><xsl:value-of select="@content"/></p>
 		</xsl:if>
 		<xsl:if test="@name = 'year'">
-			<p class="bookinfo"><xsl:value-of select="@content"/> год</p>
+			<p class="bookinfo">Год издания: <xsl:value-of select="@content"/></p>
 		</xsl:if>
 		<xsl:if test="@name = 'note'">
 			<p class="bookinfo"><xsl:value-of select="@content"/></p>
+			<p class="bookinfo">
+				<xsl:element name="a">
+					<xsl:attribute name="href">http://www.ponomar.net/cgi-bin/bookpage.cgi?id=<xsl:value-of select="$bookId"/>&amp;page=1</xsl:attribute>
+					<xsl:attribute name="target">_blank</xsl:attribute>
+					Просмотр страниц &gt;
+				</xsl:element>
+			</p>
 		</xsl:if>
 	</xsl:template>
 	<xsl:template match="chapter">
-		<li>
+		<li class="bookdata">
 		<xsl:element name="a">
 			<xsl:attribute name="href">chapters/<xsl:value-of select="@file"/></xsl:attribute>
 			<xsl:attribute name="title"><xsl:value-of select="@name"/></xsl:attribute>

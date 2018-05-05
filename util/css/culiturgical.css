@@ -60,3 +60,36 @@
 	color: white;
 	text-decoration: underline;
 }
+
+.booktitle {
+	text-align: center;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+.bookdata {
+	text-align: left;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+.bookinfo {
+	text-align: left;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: italic;
+}
+
+.bookinfo a:link, a:active, a:visited { 
+	color: #CC0502;
+	text-decoration: none;
+}
+
+.bookinfo a:hover { text-decoration: underline; }
+
+.bookdata a:link, a:active, a:visited {
+	color: #CC0502;
+	text-decoration: none;
+}
+
+.bookdata a:hover { text-decoration: underline; }
