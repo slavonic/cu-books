@@ -1,0 +1,95 @@
+/** CSS file for the Church Slavonic liturgical texts **/
+@font-face {
+    font-family: 'Ponomar Unicode';
+    src: url('http://sci.ponomar.net/fonts/PonomarUnicode.eot');
+    src: url('http://sci.ponomar.net/fonts/PonomarUnicode.eot?#iefix') format('embedded-opentype'),
+	url('http://sci.ponomar.net/fonts/PonomarUnicode.woff2') format('woff2'),
+	url('http://sci.ponomar.net/fonts/PonomarUnicode.woff') format('woff'),
+	url('http://sci.ponomar.net/fonts/PonomarUnicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.cu-text {
+	font-family: Ponomar Unicode;
+	font-size: 18px;
+}
+
+.ru-text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 17px;
+}
+
+.red {
+	color: #CC0502;
+}
+
+.wide {
+	letter-spacing: 0.2em;
+}
+
+.pb {
+	display: block;
+	float: right;
+	line-height: normal;
+	font-size: 75%;
+	text-indent: 0px;
+	border: 1px solid black;
+	color: white;
+	background-color: #F5A505;
+	padding: 3px 4px;
+	margin: 0px 0px 0px 8px;
+}
+
+.pb a:link {
+	color: white;
+	text-decoration: none;
+}
+
+.pb a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+.pb a:active {
+	color: white;
+	text-decoration: none;
+}
+
+.pb a:hover {
+	color: white;
+	text-decoration: underline;
+}
+
+.booktitle {
+	text-align: center;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+.bookdata {
+	text-align: left;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+.bookinfo {
+	text-align: left;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: italic;
+}
+
+.bookinfo a:link, a:active, a:visited { 
+	color: #CC0502;
+	text-decoration: none;
+}
+
+.bookinfo a:hover { text-decoration: underline; }
+
+.bookdata a:link, a:active, a:visited {
+	color: #CC0502;
+	text-decoration: none;
+}
+
+.bookdata a:hover { text-decoration: underline; }
