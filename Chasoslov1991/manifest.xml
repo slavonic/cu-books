@@ -14,15 +14,11 @@
 		<chapter file="01polunosch.xml" name="Полунощница"/>
 		<chapter file="02utren.xml" name="Последование утрени"/>
 		<chapter file="03chas1.xml" name="Час первый"/>
-		<chapter file="03_1chas1_1.xml" name="Междочасие Первого часа"/>
 		<chapter file="04chas3.xml" name="Час третий"/>
-		<chapter file="04_1chas3_1.xml" name="Междочасие Третьего часа"/>
 		<chapter file="05chas6.xml" name="Час шестой"/>
-		<chapter file="05_1chas6_1.xml" name="Междочасие Шестого часа"/>
 		<chapter file="06izobrazit.xml" name="Последование изобразительных"/>
 		<chapter file="07panag.xml" name="Чин о панагии"/>
 		<chapter file="08chas9.xml" name="Час девятый"/>
-		<chapter file="08_1chas9_1.xml" name="Междочасие Девятого часа"/>
 		<chapter file="09vechern.xml" name="Последование вечерни"/>
 		<chapter file="10trapez.xml" name="Молитвы в трапезе"/>
 		<chapter file="11vpovech.xml" name="Великое повечерие"/>

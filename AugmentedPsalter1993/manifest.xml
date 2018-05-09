@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="a29c0203-4f66-4057-8d2c-dfb72317d03a"/>
+		<meta name="lang" content="cu"/>
+		<meta name="title" content="Следованная Псалтирь, том 2"/>
+		<meta name="latin" content="AugmentedPsalter2"/>
+		<meta name="publisher" content="Издание Донского монастыря"/>
+		<meta name="year" content="1993"/>
+		<meta name="note" content="Тексты приводятся по изданию: Псалтирь слѣдованная, II часть, Донской монастырь, Москва, ҂ацч҃г. Набор: Ponomar Technologies, Inc."/>
+	</head>
+	<manifest>
+		<chapter file="08chas1inter.xml" name="Междочасие Первого часа"/>
+		<chapter file="10chas3inter.xml" name="Междочасие Третьего часа"/>
+		<chapter file="12chas6inter.xml" name="Междочасие Шестого часа"/>
+		<chapter file="16chas9inter.xml" name="Междочасие Девятого часа"/>
+	</manifest>
+</bookdata>
