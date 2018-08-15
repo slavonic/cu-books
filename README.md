@@ -12,3 +12,19 @@ as well as utilities for working with these texts.
 make test
 ```
 
+## Correction of errors in corpus
+
+Errors and typos are corrected and committed with the @erratum flag.
+To generate a list of all corrected errors and typos, type:
+
+```
+make erratum
+```
+
+This produces `erratum.diff`. To clean up, type:
+
+```
+make clean
+```
+
+
