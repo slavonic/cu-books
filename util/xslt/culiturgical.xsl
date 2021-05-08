@@ -73,7 +73,9 @@
 					<xsl:value-of select="@number"/>
 				</xsl:attribute>
 				<xsl:attribute name="href">http://www.ponomar.net/cgi-bin/bookpage.cgi?id=<xsl:value-of select="$bookId"/>&amp;page=<xsl:value-of select="@number"/></xsl:attribute>
-				<xsl:value-of select="@number"/>
+				<xsl:text>(л. </xsl:text>
+				<xsl:value-of select="@label"/>
+				<xsl:text>)</xsl:text>
 			</xsl:element>
 		</xsl:element>
 	</xsl:template>
