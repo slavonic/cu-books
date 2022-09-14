@@ -7,6 +7,12 @@ Church Slavonic text corpus
 This corpus contains Church Slavonic liturgical texts in XML format
 as well as utilities for working with these texts.
 
+**Note** that this corpus is now deprecated.
+All texts are available in Markdown format in the
+[cu-md-sandbox repository](https://github.com/slavonic/cu-md-sandbox).
+You should use those texts, and any further updates should
+be pushed to that repository.
+
 ## Validate xml files
 ```
 make test
